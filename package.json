@@ -1,0 +1,24 @@
+{
+  "name": "mockaroo-clone",
+  "version": "1.0.0",
+  "description": "A feature-rich test data generator and API mocking tool similar to Mockaroo",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "mockaroo",
+    "test-data",
+    "mock-api",
+    "csv",
+    "json",
+    "sql"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "uuid": "^9.0.1"
+  }
+}
